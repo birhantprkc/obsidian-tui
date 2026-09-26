@@ -4,7 +4,12 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.6.0]
+## [0.6.0] — 2026-09-26
+
+Copy and paste through the system clipboard, shortcuts that can be moved to
+keys every layout can reach, and settings the app writes for you that no
+longer disturb the rest of `config.toml`. A `config.toml` written by an earlier
+version loads unchanged; the new `[keys]` section is optional.
 
 ### Added
 
